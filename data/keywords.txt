@@ -1,0 +1,8 @@
+large language models
+computer vision
+reinforcement learning
+ai agents
+generative ai
+stable diffusion
+mlops
+edge ai quantization

@@ -1,0 +1,4 @@
+{
+  "GITHUB_TOKEN": "your_github_personal_access_token_here",
+  "HUGGINGFACE_TOKEN": "your_huggingface_token_here"
+}
